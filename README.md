@@ -1,4 +1,4 @@
-Everything in this repository is **copyright © CC B** (GNU GENERAL PUBLIC LICENSE
+Everything in this repository is licensed through the (GNU GENERAL PUBLIC LICENSE
                        Version 3).  A copy of this license can be found in `./LICENSE`.   
 
 This readme is for **release v1/0/0**.  
